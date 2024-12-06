@@ -53,7 +53,8 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/davidvilmana/backendjuegochallenge.git>
+   cd backendjuegochallenge
 
 2. Inicia el servidor de desarrollo:
    ```bash
