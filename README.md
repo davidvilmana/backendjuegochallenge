@@ -35,7 +35,7 @@ Este proyecto es una API desarrollada en Flask que integra `Socket.IO` para mane
 ### **Entorno**
 - **Python 3.8+**
 - **MySQL**
-- **React** ( Link de repositorio GITHUB  )
+- **React** ( Link de repositorio GITHUB https://github.com/davidvilmana/frontendjuego  )
 
 
 ### **Bibliotecas de Python**
